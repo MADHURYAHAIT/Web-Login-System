@@ -19,11 +19,11 @@ Thats what you see after you Logg :
 
 <h3>Some Important Commands :</h3>
 
-1. Create a virtual environment :
+1. Create a virtual environment
 -> virtualenv venv
 
 2. To activate it
--> source venv/bin/activate 
+-> source venv/bin/activate (for mac)
 
 3. Install Django
 -> pip install django
